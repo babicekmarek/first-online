@@ -10,7 +10,7 @@ title: Homepage
 ---
 Tohle je moje příprava k ústní maturitní zkoušce z češtiny ve formě Markdown poznámek publikované v HTML pomocí Obsidian a Quartz. Čerpal jsem pouze z výkladu a poznámek Mgr. Marek Gallistl, učebnice Didaktis PRO STŘEDNÍ ŠKOLY 1., 2. a 3. díl a pro historický kontext z knížek knižní serie Toulky českou minulostí. Některé zajímavosti jsou nedostatečně ozdrojované, tento problém řeším, zatím jsem zvládl ozdrojovat pouze v lokální verzi.
 
-Abiturientova četba:
+## Abiturientova četba:
 - [[1. Othello✅]]
 - [[2. Lakomec✅]]
 - [[3. Labyrint světa a Ráj srdce✅]]
@@ -32,3 +32,8 @@ Abiturientova četba:
 - [[19. Postřižiny✅]]
 - [[19. Saturnin✅ NEzahrnuto]]
 - [[20. Krysař✅]]
+
+## Testy období
+- [[1. až 6.]]
+- [[7. až 13.]]
+- [[14. až 20.]]
