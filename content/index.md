@@ -14,7 +14,7 @@ Tohle je moje příprava k ústní maturitní zkoušce z češtiny ve formě Mar
 - [[1. Othello✅]]
 - [[2. Lakomec✅]]
 - [[3. Labyrint světa a Ráj srdce✅]]
-- [[4. Obraz Doriana Greye✅]]
+- [[4. Obraz Doriana Graye✅]]
 - [[5. Jak je důležité míti Filipa✅]]
 - [[6. Chrám Matky Boží v Paříži✅]]
 - [[7. Revizor✅]]
