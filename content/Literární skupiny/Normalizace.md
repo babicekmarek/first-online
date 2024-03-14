@@ -10,3 +10,5 @@ tags:
 	* underground - kompletně na totalitním režimu nezávislý kulturní proud
 
 *tento text je zkopírován z dokumentu [Zkoušení Hrubín a Kolář](Zkoušení%20Hrubín%20a%20Kolář.md)*
+
+normalizace

@@ -27,7 +27,7 @@ Tohle je moje příprava k ústní maturitní zkoušce z češtiny ve formě Mar
 - [[14. Farma zvířat✅]]
 - [[15. Pentagram ❌]]
 - [[16. Smuténka✅]]
-- [[17. Smrt krásných srnců ❌]]
+- [[17. Smrt krásných srnců ✅]]
 - [[18. R. U. R.✅]]
 - [[19. Postřižiny✅]]
 - [[19. Saturnin✅ NEzahrnuto]]
