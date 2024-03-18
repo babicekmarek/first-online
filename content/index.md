@@ -30,11 +30,10 @@ Tohle je moje příprava k ústní maturitní zkoušce z češtiny ve formě Mar
 - [[17. Smrt krásných srnců ✅]]
 - [[18. R. U. R.✅]]
 - [[19. Postřižiny✅]]
-- [[22. Saturnin✅]]
 - [[20. Krysař✅]]
 --------
 - [[21. Duna ✅]]
--  [[22. Saturnin✅]]
+- [[22. Saturnin✅]]
 
 ## Testy období
 - [[1. až 6.]]
