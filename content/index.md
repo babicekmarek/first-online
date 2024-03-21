@@ -25,7 +25,7 @@ Tohle je moje příprava k ústní maturitní zkoušce z češtiny ve formě Mar
 - [[12. Stařec a moře ❌]]
 - [[13. Na západní frontě klid✅]]
 - [[14. Farma zvířat✅]]
-- [[15. Pentagram ❌]]
+- [[15. Pentagram ⛧✅]]
 - [[16. Smuténka✅]]
 - [[17. Smrt krásných srnců ✅]]
 - [[18. R. U. R.✅]]
